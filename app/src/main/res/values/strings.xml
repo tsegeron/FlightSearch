@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="favourite">Favourite</string>
+    <string name="search_placeholder">Enter departure airport</string>
+    <string name="flights_from">Flights from %s</string>
+    <string name="favourite_routes">Favourite routes</string>
+</resources>

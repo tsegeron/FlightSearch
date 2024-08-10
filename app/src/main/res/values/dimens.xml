@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">12dp</dimen>
+
+    <dimen name="iata_code_width">44dp</dimen>
+    <dimen name="spacer_small">4dp</dimen>
+    <dimen name="spacer_medium">8dp</dimen>
+    <dimen name="card_bottom_padding_small">4dp</dimen>
+    <dimen name="card_bottom_padding_medium">8dp</dimen>
+    <dimen name="airport_row_horizontal_padding">20dp</dimen>
+    <dimen name="top_app_bar_elevation">8dp</dimen>
+    <dimen name="scaffold_content_padding">16dp</dimen>
+    <dimen name="search_text_field_bottom_padding">16dp</dimen>
+</resources>
